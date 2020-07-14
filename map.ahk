@@ -14,4 +14,5 @@ P::Р
 x::х
 X::Х
 
-f12::Suspend
+f7::Suspend, On
+f12::Suspend, Off
