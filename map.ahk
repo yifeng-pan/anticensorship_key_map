@@ -14,5 +14,5 @@ P::Р
 x::х
 X::Х
 
-f7::Suspend, On
-f12::Suspend, Off
+Numpad1::Suspend, On
+Numpad4::Suspend, Off
